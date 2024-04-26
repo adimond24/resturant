@@ -1,0 +1,19 @@
+nav {
+    background-color:aquamarine;
+}
+nav ul{
+    color: aliceblue;
+    text-decoration: wavy;
+}
+body{
+    background-color: bisque;
+}
+p{
+    color: blueviolet;
+    border: 3px;
+    border-color: aqua;
+}
+main{
+    width: auto;
+    height: auto;
+}
